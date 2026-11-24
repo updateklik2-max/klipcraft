@@ -1,0 +1,8 @@
+{
+  "name": "KlipCraft Studio",
+  "description": "AI viral video analyzer, text-to-image and text-to-video prompt architect, slang voiceover studio, automated dynamic video editor, and multi-platform social publishing workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
